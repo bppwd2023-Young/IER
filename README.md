@@ -4,6 +4,7 @@ game made in unity editor 2021.3.9f1
 untilizes the following packages
 standard assets
 github for unity; allows commiting, pushing, and pulling from unity editor https://github.com/spoiledcat/git-for-unity 
+
 readyplayerme for unity; allows easy transfer of avatars made on https://readyplayer.me/ to be easily added and unitlized in unity 
 
 About Game:
