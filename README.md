@@ -7,6 +7,8 @@ github for unity; allows commiting, pushing, and pulling from unity editor https
 
 readyplayerme for unity; allows easy transfer of avatars made on https://readyplayer.me/ to be easily added and unitlized in unity 
 
+some animations sourced from https://www.mixamo.com/#/ 
+
 About Game:
 
 Simulation for educating people and people, as well as to help people have more empathy towards those who are struggling with mental illness, and break down and discourage harmful stereotypes and destigmatize individuals with mental health issues.
