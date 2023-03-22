@@ -7,7 +7,9 @@ github for unity; allows commiting, pushing, and pulling from unity editor https
 
 readyplayerme for unity; allows easy transfer of avatars made on https://readyplayer.me/ to be easily added and unitlized in unity 
 
-some animations sourced from https://www.mixamo.com/#/ 
+some animations sourced from https://www.mixamo.com/#/
+
+dialogue components from https://github.com/YarnSpinnerTool/YarnSpinner-Unity 
 
 About Game:
 
