@@ -1,14 +1,22 @@
 ﻿title: Start
 
 ---
-<<set $playerName to "Noah">>
 
 Dad: Hey, You're finally awake!
-->{$playerName}: Where Am I?
-   Dad: The hospital.
-->{$playerName}: What?
-  Dad:  Did you really forget what happened?
-->{$playerName}: Is that the Brotherhood Of Steel logo!?
-  Dad:  What are you talking about?
-Dad: You're going to TeraWest!
+    You: Where Am I?
+Dad: The hospital.
+    You: What happened?
+Dad: thats not important right now.
+Dad: I'm really sorry to tell you this.
+Dad: You're not going home today.
+    You: What do you mean?
+Dad: The doctor said that you aren't safe to go home.
+    You: What?!
+Dad: Don't worry though
+Dad: Your're going to be brought to a pysch ward
+Dad: It's this really nice place called TaraWest.
+    You: When?
+Dad: they said the abulance is on the way and you'll be leaving any time now.
+    Unknown: *knock at the door*
+Dad: come in.
 ===
