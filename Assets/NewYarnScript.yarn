@@ -1,0 +1,14 @@
+﻿title: Start
+
+---
+<<set $playerName to "Noah">>
+
+Dad: Hey, You're finally awake!
+->{$playerName}: Where Am I?
+   Dad: The hospital.
+->{$playerName}: What?
+  Dad:  Did you really forget what happened?
+->{$playerName}: Is that the Brotherhood Of Steel logo!?
+  Dad:  What are you talking about?
+Dad: You're going to TeraWest!
+===
